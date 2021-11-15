@@ -1,0 +1,8 @@
+TRUNCATE TABLE person;
+TRUNCATE TABLE doctor;
+TRUNCATE TABLE smoker;
+TRUNCATE TABLE bill;
+TRUNCATE TABLE observationSchedule;
+TRUNCATE TABLE punishment;
+TRUNCATE TABLE weighing;
+TRUNCATE TABLE relative;
